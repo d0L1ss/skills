@@ -1,0 +1,22 @@
+let MyAge = 15;
+let YearOfBirth = 2007;
+let numBirth = 28;
+let brothers = 2;
+let sisters = 2;
+let numFam = 7;
+let = amoOfTrav = 28;
+let year = 2022;
+let dollar = 60.18;
+let euro = 62.10;
+let btc = 1041218.40;
+
+year - YearOfBirth;
+year - numBirth;
+brothers + sisters;
+euro * 1000;
+dollar * 2.5;
+btc / 10000;
+amoOfTrav / dollar;
+numFam - brothers - sisters;
+0 / MyAge;
+35 - MyAge;
